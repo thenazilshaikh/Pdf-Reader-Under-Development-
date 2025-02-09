@@ -1,9 +1,9 @@
 # PDF READER (Under develeopment)
-#Overview
+# Overview
 
 This is a Python-based PDF reader that allows users to upload PDFs and ask questions from any part of the document. The system will provide answers, generate a statistical report with graphs and text, and create a summary of the document. The project is still in progress, and features are being developed.
 
-#Project Structure
+# Project Structure
 
 The project contains the following files:
 
